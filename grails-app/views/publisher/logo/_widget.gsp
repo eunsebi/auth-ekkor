@@ -1,0 +1,1 @@
+<g:field type="file" name="logo" value="" required="" id="logo" style="display: inline;"/>

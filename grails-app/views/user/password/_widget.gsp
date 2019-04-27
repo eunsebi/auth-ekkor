@@ -1,0 +1,1 @@
+<g:passwordField name="password" value="**********}" />
