@@ -1,8 +1,8 @@
 package xyz.ekkor
 
+import grails.gorm.transactions.Transactional
 import grails.plugin.cache.Cacheable
 import grails.plugin.springsecurity.SpringSecurityService
-import grails.transaction.Transactional
 import org.hibernate.FetchMode
 
 @Transactional

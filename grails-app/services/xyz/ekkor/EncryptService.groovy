@@ -1,6 +1,7 @@
 package xyz.ekkor
 
-import grails.transaction.Transactional
+import grails.converters.JSON
+import grails.gorm.transactions.Transactional
 
 import javax.crypto.Cipher
 import javax.crypto.SecretKeyFactory

@@ -1,6 +1,6 @@
 package xyz.ekkor
 
-import grails.transaction.Transactional
+import grails.gorm.transactions.Transactional
 import org.owasp.html.AttributePolicy
 import org.owasp.html.PolicyFactory
 import org.owasp.html.Sanitizers
